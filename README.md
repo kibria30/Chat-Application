@@ -4,7 +4,7 @@ A modern, interactive chatbot application built using the **[Mesop](https://meso
 
 ## 📸 Demo
 
-![Fancy Mesop Chat Interface](https://github.com/user-attachments/assets/your-screenshot-url-here)
+![Fancy Mesop Chat Interface](./assets/demo-screenshot.png)
 
 *The chat interface showing a conversation about AI history, with features like chat history sidebar, message rating buttons, and dark mode theme.*
 
@@ -147,6 +147,9 @@ model = OllamaLLM(model="codellama")        # Code Llama
 Chat-Application/
 ├── main.py              # Main application file
 ├── README.md           # This file
+├── requirements.txt    # Python dependencies
+├── assets/             # Images and documentation assets
+│   └── demo-screenshot.png  # Application screenshot
 ├── env/                # Virtual environment (created after setup)
 └── __pycache__/        # Python cache files
 ```
