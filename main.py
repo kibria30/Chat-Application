@@ -14,7 +14,7 @@ from langchain_ollama import OllamaLLM
 # Load environment variables from .env file
 # load_dotenv()
 
-model = OllamaLLM(model="gemma3:1b")
+model = OllamaLLM(model="gemma3:4b")
 
 
 _APP_TITLE = "Fancy Mesop Chat"
