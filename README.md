@@ -2,6 +2,12 @@
 
 A modern, interactive chatbot application built using the **[Mesop](https://mesop-dev.github.io/mesop/)** framework and **Gemma 3 4B** model via **Ollama** for local inference. This application provides a sleek chat interface with advanced features like conversation history, message rating, and responsive design.
 
+## 📸 Demo
+
+![Fancy Mesop Chat Interface](https://github.com/user-attachments/assets/your-screenshot-url-here)
+
+*The chat interface showing a conversation about AI history, with features like chat history sidebar, message rating buttons, and dark mode theme.*
+
 ---
 
 ## 🚀 Features
